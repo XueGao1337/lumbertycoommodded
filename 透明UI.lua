@@ -138,7 +138,7 @@ end
 
 function library.new(library, name, theme)
     for _, v in next, services.CoreGui:GetChildren() do
-        if v.Name == "XPXPXPNBNB" then
+        if v.Name == "CNMSBCNMXHDXBCXueGao886" then
             v:Destroy()
         end
     end
